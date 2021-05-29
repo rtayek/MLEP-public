@@ -1,0 +1,29 @@
+The Modern Mathematics of Deep Learning
+inf and sup - infimum and supremum - fancy names for greatest lower bound (abbreviated as GLB) and least upper bound (or LUB).
+a measurable function is a function between the underlying sets of two measurable spaces that preserves the structure of the spaces
+in general topology, compactness is a property that generalizes the notion of a subset of Euclidean space being closed (i.e., containing all its limit points) and bounded (i.e., having all its points lie within some fixed distance of each other).
+a Banach space is a complete normed vector space
+1.1
+psuedometric space - has indistinguishable points.
+frobenious norm - looks like a generalization of distance norm.
+Sobolev-Slobodeckij, Lebesgue, and measure spaces -  places whee the norms behave as expected.
+fourier transform - maps functions of time to functions of frequency.
+tempered di+stribution - looks like something that does not grow too fast at infinity in all directions (at most polynomial or moderate/tempered growth).
+1.2
+def 1.1 - looks like F is not a function - just a subset of M(X,Y)
+def 1.2 - not sure what "L(f,(x, y)) = 1(−∞,0)(yf(x))" means.
+rem 1.3  The measure μ is called σ-finite if X is the countable union of measurable sets with finite measure.
+suprisal - Interpreting log-likelihood as "support" or negative surprisal (the degree to which an event supports a given model: a model is supported by an event to the extent that the event is unsurprising, given the model)
+def 1.4 - realization, observation, or observed value, of a random variable is the value that is actually observed (what actually happened).
+affine linear map = preserves lines and parallelism (but not necessarily distances and angles)
+rem 1.5 - highly non-injective = highly not one to one.
+1.2.1
+
+
+
+
+
+
+
+
+ 
