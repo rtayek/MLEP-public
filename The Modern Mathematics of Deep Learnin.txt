@@ -21,6 +21,13 @@ lemma 1.1 has another "1" and yf(x): 1(−∞,0)(E[Y |X]f(X))
 1.2.1
 lipschitz-regular function - limited in how fast it can change.
 1.2.2
+theorem 1.14 - In probability theory, an event is said to happen almost surely (sometimes abbreviated as a.s.) if it happens with probability 1 (or Lebesgue measure 1).[1][2] In other words, the set of possible exceptions may be non-empty, but it has probability 0. The concept is analogous to the concept of "almost everywhere" in measure theory. 
+theorem 1.15
+a null set N is a set that can be covered by a countable union of intervals of arbitrarily small total length.
+closure - a closed set is one that contains all of it's limit points.
+what is "C" in Then it holds that C(K) ⊂ cl(Fe)?
+
+
 
 
 
