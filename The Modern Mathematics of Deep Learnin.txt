@@ -17,7 +17,12 @@ suprisal - Interpreting log-likelihood as "support" or negative surprisal (the d
 def 1.4 - realization, observation, or observed value, of a random variable is the value that is actually observed (what actually happened).
 affine linear map = preserves lines and parallelism (but not necessarily distances and angles)
 rem 1.5 - highly non-injective = highly not one to one.
+lemma 1.1 has another "1" and yf(x): 1(−∞,0)(E[Y |X]f(X))
 1.2.1
+lipschitz-regular function - limited in how fast it can change.
+1.2.2
+
+
 
 
 
