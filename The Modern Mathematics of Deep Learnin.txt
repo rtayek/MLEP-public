@@ -26,6 +26,21 @@ theorem 1.15
 a null set N is a set that can be covered by a countable union of intervals of arbitrarily small total length.
 closure - a closed set is one that contains all of it's limit points.
 what is "C" in Then it holds that C(K) ⊂ cl(Fe)?
+dense - a subset A of a topological space X is called dense (in X) if every point x in X either belongs to A or is a limit point of A; that is, the closure of A constitutes the whole set X.
+dual space - https://en.wikipedia.org/wiki/Dual_space
+Riesz–Markov–Kakutani representation theorem relate
+s linear functionals on spaces of continuous functions on a locally compact space to measures in measure theory.
+(this is getting pretty hard to follow)
+1.3
+Ridge regression is a method of estimating the coefficients of multiple-regression models in scenarios where independent variables are highly correlated.
+
+
+
+
+
+
+
+
 
 
 
