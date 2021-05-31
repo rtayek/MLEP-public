@@ -6,7 +6,7 @@ a Banach space is a complete normed vector space
 1.1
 psuedometric space - has indistinguishable points.
 frobenious norm - looks like a generalization of distance norm.
-Sobolev-Slobodeckij, Lebesgue, and measure spaces -  places whee the norms behave as expected.
+Sobolev-Slobodeckij, Lebesgue, and measure spaces -  places where the norms behave as expected.
 fourier transform - maps functions of time to functions of frequency.
 tempered di+stribution - looks like something that does not grow too fast at infinity in all directions (at most polynomial or moderate/tempered growth).
 1.2
@@ -17,7 +17,7 @@ suprisal - Interpreting log-likelihood as "support" or negative surprisal (the d
 def 1.4 - realization, observation, or observed value, of a random variable is the value that is actually observed (what actually happened).
 affine linear map = preserves lines and parallelism (but not necessarily distances and angles)
 rem 1.5 - highly non-injective = highly not one to one.
-lemma 1.1 has another "1" and yf(x): 1(−∞,0)(E[Y |X]f(X))
+lemma 1.1
 1.2.1
 lipschitz-regular function - limited in how fast it can change.
 1.2.2
